@@ -11,3 +11,5 @@ This code uses the python libraries PyAutoGUI and win32com, therefore the only s
 Requirements:
 - PyAutoGUI: ``pip install pyautogui``
 - pillow: ``pip install pillow``
+
+or using the `requirements.txt` file, ``pip install -r requirements.txt``
