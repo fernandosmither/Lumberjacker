@@ -1,7 +1,8 @@
 import time
 import PIL.ImageGrab
-import win32com.client as comclt
+import pyautogui as py
 from ctypes import windll
+import win32com.client as comclt
 
 
 def calibrate():
